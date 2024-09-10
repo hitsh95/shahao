@@ -21,7 +21,7 @@ repository               : "hitsh95/shahao.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "./images/头像.png"
+  avatar           : "头像.png"
   name             : "Sha Hao"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Harbin Institute of Technology (Shenzhen)"
