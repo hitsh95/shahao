@@ -6,7 +6,6 @@ permalink: /publication/2010-10-01-paper-title-number-2
 excerpt: 'We propose a snapshot hyperspectral confocal microscopic imaging system (SHCMS). It combined coded illumination microscopy based on a digital micromirror device (DMD) with a snapshot hyperspectral confocal neural network (SHCNet) to realize single-shot confocal hyperspectral imaging. With SHCMS, high-contrast 160-band confocal hyperspectral images of potato tuber autofluorescence can be collected by only single-shot, which is almost 5 times improvement in the number of spectral channels than previously reported methods.'
 date: 2024-04-08
 venue: 'Optics Express'
-slidesurl: 'https://hitsh95.github.io/shahao/files/oe-32-8-13918.pdf'
 paperurl: 'https://hitsh95.github.io/shahao/files/oe-32-8-13918.pdf'
 citation: 'Liu, S., et al. Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system. Optics Express 32(2024).'
 ---
