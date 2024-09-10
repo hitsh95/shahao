@@ -22,18 +22,19 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sha Hao"
+  name             : "Sha Hao (沙浩)"
   bio              : "Ph.D. Candidate in Harbin Institute of Technology (Shenzhen)"
   employer         : "shahao@stu.hit.edu.cn"
-  email            : "shahao@stu.hit.edu.cn" 
+
 
   # Academic websites
+  email            : "shahao@stu.hit.edu.cn" 
   googlescholar    : "https://scholar.google.com.hk/citations?user=-mqUZ8oAAAAJ&hl=zh-CN"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0002-3231-1570"
   researchgate     : "https://www.researchgate.net/profile/Hao-Sha-5"
 
   # Repositories and software development
-  github           : "https://github.com/hitsh95"
+  github           : "hitsh95"
 
   # Social media
   twitter          : # Username for X / Twitter
