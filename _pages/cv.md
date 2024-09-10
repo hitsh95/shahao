@@ -51,4 +51,4 @@ Publications
   
 Projects
 ======
-* Currently signed in to 43 different slack teams
+* Currently I participated in six research projects and one technology transfer project. These projects included an Excellent Young Scientists Fund (优青) Program and a Key Project (重点项目) funded by the National Natural Science Foundation of China (NSFC), with a total funding amount of 8 million RMB.
