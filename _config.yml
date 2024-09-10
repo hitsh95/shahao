@@ -21,7 +21,7 @@ repository               : "hitsh95/shahao"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "头像.png"
   name             : "Sha Hao (沙浩)"
   bio              : "Ph.D. Candidate in Harbin Institute of Technology (Shenzhen)"
   employer         : "shahao@stu.hit.edu.cn"
