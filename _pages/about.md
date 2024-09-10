@@ -56,12 +56,12 @@ Breaking News
 Selected publications
 ------
 
--	S Liu, B Chen, W Zou, **H Sha**, et al. Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios. Communications Engineering 3(2024).
--	S Liu, W Zou, **H Sha**, et al. Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system. Optics Express 32(2024).
--	**H Sha**, H Li, Y Zhang, S Hou. Deep learning-enhanced single-molecule spectrum imaging. APL Photonics 8(2023).
--	Y Jiang, **H Sha\***, S Liu, P Qin, Y Zhang. AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging. Biomedical Optics Express 14(2023).
-- S Liu, P Li, **H Sha**, et al. Intensity and phase imaging through scattering media via deep despeckle complex neural networks. Optics and Lasers in Engineering 159(2022).
--	**H Sha\***, Y Liu\*, Y Zhang. 基于深度学习的傅里叶叠层成像技术. Laser & Optoelectronics Progress 58(2021).
+-	S Liu, B Chen, W Zou, **H Sha**, et al. Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios. ***Communications Engineering*** 3(2024).
+-	S Liu, W Zou, **H Sha**, et al. Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system. ***Optics Express*** 32(2024).
+-	**H Sha**, H Li, Y Zhang, S Hou. Deep learning-enhanced single-molecule spectrum imaging. ***APL Photonics*** 8(2023).
+-	Y Jiang, **H Sha\***, S Liu, P Qin, Y Zhang. AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging. ***Biomedical Optics Express*** 14(2023).
+- S Liu, P Li, **H Sha**, et al. Intensity and phase imaging through scattering media via deep despeckle complex neural networks. ***Optics and Lasers in Engineering*** 159(2022).
+-	**H Sha\***, Y Liu\*, Y Zhang. 基于深度学习的傅里叶叠层成像技术. ***Laser & Optoelectronics Progress*** 58(2021).
 
 
 
