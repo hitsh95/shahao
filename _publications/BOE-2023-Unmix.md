@@ -2,7 +2,7 @@
 title: "AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging"
 collection: publications
 category: manuscripts
-permalink: /publication/BOE-2023-Unmix
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'Propose a deep learning-based blindly spectral unmixing method, termed AutoUnmix, to imitate the physical spectral mixing process. Our proposed method has demonstrated real-time unmixing capabilities, surpassing existing methods by up to 100-fold in terms of unmixing speed.'
 date: 2023-09-01
 venue: 'Biomedical Optics Express'
