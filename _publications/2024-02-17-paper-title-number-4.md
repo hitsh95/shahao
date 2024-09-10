@@ -1,7 +1,7 @@
 ---
 title: "Deep learning-enhanced single-molecule spectrum imaging"
 collection: publications
-category: manuscript
+category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
 excerpt: 'A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.'
 date: 2023-09-01
