@@ -1,28 +1,57 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Hao Sha's academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am currently a 4th year PhD student in the department of <a href="http://cs.hitsz.edu.cn/">Computer Science</a>, <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a>. Previously, I received my MSE and BSE degrees from <a href="https://en.csu.edu.cn/">Central South University</a> and <a href="https://www.lit.edu.cn/">LuoYang Institute of Technology</a> in 2020 and 2017. My Ph.D. supervisors are <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> from <a href="http://en.hitsz.edu.cn/">Harbin Institute of Technology (ShenZhen)</a>, <a href="http://houlab.szbl.ac.cn/"> Assistant Prof. Shangguo Hou</a> from <a href="https://www.szbl.ac.cn/en/"> Shenzhen Bay Laboratory</a> and <a herf="https://rieslab.de/">Prof.Jonas Ries</a> from <a herf="https://www.maxperutzlabs.ac.at/research/research-groups/ries">Max Perutz Lab</a>. My research interests lie primarily in super-resolution imaging and single-molecule tracking. During my study in HIT and SZBL, I developed a single molecule spectrum tracking system. With this system, we can track the spectrum of single molecules at the spatiotemporal scale of millisecond-nanometers. Besides, I also had a good time with <a href="https://www.sigs.tsinghua.edu.cn/hsy_en/main.htm">Assistant Prof. Sanyang Han</a> and <a href="https://ee.jlu.edu.cn/en/info/1028/1106.htm"> Prof. Chenguang Wang</a>.
 
-A data-driven personal website
+
+Education Background
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Harbin Institute of Technology (Shenzhen)** `2021.09 - `
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+- Ph.D. in Electronic Information, School of Computer Science and Technology
+- Computing imaging, Artificial intelligence
+- advised by [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en)
+
+**University of Vienna** `2024.09 - 2025.09`
+
+- Joint Ph.D. in Advanced Microscopy and Cellular Dynamics at the Max Perutz labs
+- Computing imaging, Artificial intelligence
+- advised by [Prof. Jonas Ries](https://rieslab.de/)
+
+**Shenzhen Bay Laboratory** `2022.01 - 2024.09`
+
+- Visiting student at the Institute of Systems and Physical Biology
+- Single particle tracking, super-resolution imaging, spectrum imaging
+- Co-advised by [Assistant Prof. Shangguo Hou](https://www.szbl.ac.cn/en/scientificresearch/researchteam/2044.html) 
+
+
+**Central South University** `2017.9 - 2020.6`
+
+- GPA 3.6/4.0, Ranked 11 out of 168 students
+- M.S. in Mechanical engineering, _Summa Cum Laude_
+- Intelligent detection, Automation
+
+**LuoYang Institute of Technology** `2013.9 - 2017.6`
+
+- GPA 3.5/4.0, Ranked No.1 totally
+- B.S. in Automation, _Summa Cum Laude_
+- Mechanical Engineering Departmental Honors
+
+Breaking News
+------
+[10/09/2024] Our manuscript titled "Reliable deep learning in anomalous diffusion against out-of-distribution dynamics" has been accepted by Nature Computation Science! I am the co-first author and congratulations to Xiaochen!
+
+[19/08/2024] Congratulations to Senior Brother Liu Shuai on successfully defending his PhD thesis. Wishing him all the best in his future endeavors!!
+
+[19/07/2024] I have been awarded the CSC scholarship and will soon join Professor Jonas Ries’s research group at the University of Vienna for a one-year research project. I hope to have an exciting experience in the next year.
+
 
 Site-wide configuration
 ------
