@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hao Sha's academic personal websites"
+title: "Sha Hao"
 author_profile: true
 redirect_from: 
   - /about/
