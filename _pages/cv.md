@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Electronic Information, Harbin Institute of Technology (Shenzhen), 2025 (expected)
+* M.S. in Mechanical Engineering, Central South University, 2020
+* B.S. in Mechanical Engineering, Luoyang Institute of Technology, 2017
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2024.09-2025.09: Joint Ph.D. student (under CSC scholarship)
+  * Advanced Microscopy and Cellular Dynamics at the Max Perutz labs
+  * Research areas: MinFlux microscope, Single Molecule Localization Super-resolution Microscope, Deep Learning
+  * Supervisor: [Prof. Jonas Ries](https://rieslab.de/)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022.01-2024.09: Visiting Student
+  * Institute of Systems and Physical Biology, Shenzhen Bay Laboratory
+  * Research areas: Single particle tracking, super-resolution imaging, spectrum imaging
+  * Supervisor: [Assistant Prof. Shangguo Hou](https://www.szbl.ac.cn/en/scientificresearch/researchteam/2044.html) 
+    
+* 2020.08-2021.08: Software development engineer
+  * ZTE Cooperation
+  * Duties included: code design for video player
   
-Skills
+Honors & Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* [Shenzhen Bay Laboratory](https://www.szbl.ac.cn/) Distinguished Director Scholarship `SZBL,2023`
+* [Central South University](https://en.csu.edu.cn/) Highpower Technology Scholarship  `CSU, 2019`
+* [LuoYang Institute of Technology](https://www.lit.edu.cn/) Excellent Bachelor Thesis Award `LIT, 2017`
+* National Encouragement Scholarship `LIT, 2016,2015`
+* First prize of [RoboCup Humanoid robot climbing Challenge](http://crc.drct-caa.org.cn/index.php/race?catid=2) `China Association of Automation, 2015`
+* First prize of [Henan Province 12th Challenge Cup](https://www.tiaozhanbei.net/) `China Association for Science and Technology, 2015`
+* First prize of [iCAN International Contest of innovAtioN](http://www.g-ican.com/home/index) `iCAN, 2014`
+* First prize of [RoboCup Humanoid robot racing Challenge](http://crc.drct-caa.org.cn/index.php/race?catid=2) `China Association of Automation, 2014`
 
 Publications
 ======
@@ -47,18 +48,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
+Projects
 ======
 * Currently signed in to 43 different slack teams
