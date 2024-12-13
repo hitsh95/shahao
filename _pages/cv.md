@@ -33,6 +33,7 @@ Work experience
   
 Honors & Awards
 ======
+* [Harbin Institute of Technology](http://global.hitsz.edu.cn/) BYD Doctoral Scholarship `HIT,2024`
 * [Shenzhen Bay Laboratory](https://www.szbl.ac.cn/) Distinguished Director Scholarship `SZBL,2023`
 * [Central South University](https://en.csu.edu.cn/) Highpower Technology Scholarship  `CSU, 2019`
 * [LuoYang Institute of Technology](https://www.lit.edu.cn/) Excellent Bachelor Thesis Award `LIT, 2017`
