@@ -46,6 +46,8 @@ Education Background
 
 Breaking News
 ------
+- [13/12/2024] 🎉🎉🎉 I have been awarded the BYD Doctoral Scholarship of the School of Computer Science and Technology of Harbin Institute of Technology (Shenzhen) for 2024!! 
+
 - [11/10/2024] 🎉🎉🎉 Our manuscript titled "[Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7)" has been published by Nature Computation Science! I am the co-first author and congratulations to Xiaochen!
 
 - [19/08/2024] 🎉🎉🎉 Congratulations to Senior Brother Liu Shuai on successfully defending his PhD thesis. Wishing him all the best in his future endeavors!!
