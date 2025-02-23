@@ -9,7 +9,7 @@ redirect_from:
 
 I am currently a 4th year PhD student in the Department of Computer Science, Harbin Institute of Technology (Shenzhen). Previously, I received my MSE and BSE degrees from Central South University and Luoyang Institute of Technology in 2020 and 2017. My Ph.D. supervisors are <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> from Harbin Institute of Technology (Shenzhen), <a href="http://houlab.szbl.ac.cn/"> Assistant Prof. Shangguo Hou</a> from Shenzhen Bay Laboratory and [Prof. Jonas Ries](https://rieslab.de) from Max Perutz Lab. My research interests lie primarily in super-resolution imaging and single-molecule tracking. During my study in HIT and SZBL, I developed a single molecule spectrum tracking system. With this system, we can track the spectrum of single molecules at the spatiotemporal scale of millisecond-nanometers. Besides, I also had a good time with <a href="https://www.sigs.tsinghua.edu.cn/hsy_en/main.htm">Assistant Prof. Sanyang Han</a> and <a href="https://ee.jlu.edu.cn/en/info/1028/1106.htm"> Prof. Chenguang Wang</a>.
 
-Find more details in his curriculum vitae -> [CV](../files/沙浩简历(中文)_20241122.pdf)
+Find more details in his curriculum vitae -> [CV]((https://github.com/hitsh95/shahao/blob/master/files/CV_20241122.pdf))
 
 
 Education Background
