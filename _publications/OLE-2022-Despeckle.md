@@ -2,7 +2,7 @@
 title: "Intensity and phase imaging through scattering media via deep despeckle complex neural networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/OLE-2022-Despeckle
 excerpt: 'A deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency. With SpecGAN, the super-resolution spectrum image of the COS-7 membrane can be reconstructed with merely 12,000 frames of single-molecule localization images, which is almost half of the previously reported frame count for spectrally resolved super-resolution imaging.'
 date: 2022-07-28
 venue: 'Optics and Lasers in Engineering'
