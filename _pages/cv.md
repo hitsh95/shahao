@@ -12,7 +12,7 @@ redirect_from:
 
 Resume
 ======
-You can download my resume from here([English_version](https://github.com/hitsh95/shahao/blob/master/files/沙浩简历(英文)_20241122.pdf), and [Chinese_version](https://github.com/hitsh95/shahao/blob/master/files/沙浩简历(中文)_20241122.pdf)).
+You can download my resume from here([English_version](https://github.com/hitsh95/shahao/blob/master/files/CV(Eng)_20241122.pdf), and [Chinese_version](https://github.com/hitsh95/shahao/blob/master/files/CV_20241122.pdf)).
 
 Education
 ======
