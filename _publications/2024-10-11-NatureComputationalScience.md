@@ -2,7 +2,7 @@
 title: "Reliable deep learning in anomalous diffusion against out-of-distribution dynamics"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-10-11-NatureComputationalScience
 excerpt: 'We present a general framework for evaluating deep-learning-based OOD dynamics-detection methods. We further develop a baseline approach that achieves robust OOD dynamics detection as well as accurate recognition of in-distribution anomalous diffusion. We demonstrate that this method enables a reliable characterization of complex behaviors across a wide range of experimentally diverse systems.'
 date: 2024-10-11
 venue: 'Nature Computational Science'
