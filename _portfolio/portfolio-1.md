@@ -5,7 +5,10 @@ collection: portfolio
 
 We report a three-dimensional target-locking-based single-molecule fluorescence Spectrum Dynamics Imaging Microscopy (3D-SpecDIM), a method capable of simultaneously capturing both rapid 3D positional dynamics and physicochemical parameter changing dynamics.
 
-<img src="https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/Supplementary-Movie-1.gif" alt="Discern two particles switching events during real-time single-particle tracking with 3D-SpecDIM" width="300" height="200">
+<div style="display: flex; justify-content: space-between;">
+    <img src="https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/Supplementary-Movie-2.gif" alt="Single particle movement around cell membrane" style="width: 30%; height: auto;">
+  <img src="https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/Supplementary-Movie-1.gif" alt="Discern two particles switching events during real-time single-particle tracking with 3D-SpecDIM" style="width: 30%; height: auto;">
+</div>
 
 <!--more-->
 
@@ -15,7 +18,6 @@ Fluorescence spectra offer rich physicochemical insights into molecular environm
 
 
 ## Schematic of 3D-SpecDIM
-![Discern two particles switching events during real-time single-particle tracking with 3D-SpecDIM](https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/figure1.tif)
-
+![Schematic of 3D-SpecDIM](https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/figure1.jpg)
 
 
