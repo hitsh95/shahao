@@ -4,7 +4,7 @@ collection: portfolio
 ---
 We propose a deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency.
 
-<img src="https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/Supplementary-Movie-1.gif" alt="Deep learning-enhanced single-molecule spectrum imaging" width="300" height="400">
+<img src="https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/Supplementary-Movie-1.gif" alt="Deep learning-enhanced single-molecule spectrum imaging" width="400" height="300">
 
 <!--more-->
 
