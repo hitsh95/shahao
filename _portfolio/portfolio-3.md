@@ -4,7 +4,7 @@ collection: portfolio
 ---
 We propose a deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency.
 
-<img src="https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/Supplementary-Movie-1.gif" alt="Deep learning-enhanced single-molecule spectrum imaging" width="400" height="300">
+<img src="https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/Supplementary-Movie-1.gif" alt="Deep learning-enhanced single-molecule spectrum imaging" style="width: 40%; height: auto;">
 
 <!--more-->
 
@@ -14,6 +14,6 @@ Fluorescence is widely used in biological imaging and biosensing. Rich informati
 
 
 ##  Experimental setup and data process overview
-![Introduction](https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/fig1.pdf)
+![Introduction](https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/fig1.png)
 
 
