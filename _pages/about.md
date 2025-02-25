@@ -48,6 +48,8 @@ Education Background
 
 Breaking News
 ------
+- [26/02/2025] 🎉🎉🎉 Our manuscript titled "[Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454)" has been published by Biomedical Optics Express! Congratulations! 
+
 - [13/12/2024] 🎉🎉🎉 I have been awarded the BYD Doctoral Scholarship of the School of Computer Science and Technology of Harbin Institute of Technology (Shenzhen) for 2024!! 
 
 - [11/10/2024] 🎉🎉🎉 Our manuscript titled "[Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7)" has been published by Nature Computation Science! I am the co-first author and congratulations to Xiaochen!
@@ -59,13 +61,14 @@ Breaking News
 
 Selected publications
 ------
-- X Feng\*, **H Sha\***, et al. [Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7). ***Nature Computational Science*** 4(2024).
--	S Liu, B Chen, W Zou, **H Sha**, et al. [Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios](https://www.nature.com/articles/s44172-024-00236-x). ***Communications Engineering*** 3(2024).
--	S Liu, W Zou, **H Sha**, et al. [Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13918&id=548509). ***Optics Express*** 32(2024).
--	**H Sha**, H Li, Y Zhang, S Hou. [Deep learning-enhanced single-molecule spectrum imaging](https://pubs.aip.org/aip/app/article/8/9/096102/2909381/Deep-learning-enhanced-single-molecule-spectrum). ***APL Photonics*** 8(2023).
--	Y Jiang\*, **H Sha\***, S Liu, P Qin, Y Zhang. [AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-9-4814&id=536669). ***Biomedical Optics Express*** 14(2023).
-- S Liu, P Li, **H Sha**, et al. [Intensity and phase imaging through scattering media via deep despeckle complex neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0143816622002494). ***Optics and Lasers in Engineering*** 159(2022).
--	**H Sha\***, Y Liu\*, Y Zhang. 基于深度学习的傅里叶叠层成像技术. ***Laser & Optoelectronics Progress*** 58(2021).
+- X Chen\*, **H Sha\***, et al. [Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454). ***Biomedical Optics Express*** 16(3), 1160-1171(2025).
+- X Feng\*, **H Sha\***, et al. [Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7). ***Nature Computational Science*** 4(10), 761-772(2024).
+-	S Liu, B Chen, W Zou, **H Sha**, et al. [Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios](https://www.nature.com/articles/s44172-024-00236-x). ***Communications Engineering*** 3, 88(2024).
+-	S Liu, W Zou, **H Sha**, et al. [Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13918&id=548509). ***Optics Express*** 32(8), 13918-13931(2024).
+-	**H Sha**, H Li, Y Zhang, S Hou. [Deep learning-enhanced single-molecule spectrum imaging](https://pubs.aip.org/aip/app/article/8/9/096102/2909381/Deep-learning-enhanced-single-molecule-spectrum). ***APL Photonics*** 8(9), 096102(2023).
+-	Y Jiang\*, **H Sha\***, S Liu, P Qin, Y Zhang. [AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-9-4814&id=536669). ***Biomedical Optics Express*** 14(9), 4814-4827(2023).
+- S Liu, P Li, **H Sha**, et al. [Intensity and phase imaging through scattering media via deep despeckle complex neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0143816622002494). ***Optics and Lasers in Engineering*** 159, 107196(2022).
+-	**H Sha\***, Y Liu\*, Y Zhang. 基于深度学习的傅里叶叠层成像技术. ***Laser & Optoelectronics Progress*** 58(18), 1811020(2021).
 
 
 
