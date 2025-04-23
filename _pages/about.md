@@ -48,6 +48,10 @@ Education Background
 
 Breaking News
 ------
+- [23/04/2025] 🎉🎉🎉 Our manuscript titled "[Rational development of Nile red derivatives with significantly improved specificity and photostability for advanced fluorescence imaging of lipid droplets](https://www.sciencedirect.com/science/article/pii/S0956566325003689)" has been published by Biosensors and Bioelectronics! Congratulations! 
+
+- [10/04/2025] 🎉🎉🎉Congratulations to me for being awarded the title of Outstanding Graduate of Heilongjiang Province in 2025
+
 - [26/02/2025] 🎉🎉🎉 Our manuscript titled "[Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454)" has been published by Biomedical Optics Express! Congratulations! 
 
 - [13/12/2024] 🎉🎉🎉 I have been awarded the BYD Doctoral Scholarship of the School of Computer Science and Technology of Harbin Institute of Technology (Shenzhen) for 2024!! 
@@ -56,12 +60,13 @@ Breaking News
 
 - [19/08/2024] 🎉🎉🎉 Congratulations to Senior Brother Liu Shuai on successfully defending his PhD thesis. Wishing him all the best in his future endeavors!!
 
-- [19/07/2024] 🎉🎉🎉 I have been awarded the CSC scholarship and will soon join Professor Jonas Ries’s research group at the University of Vienna for a one-year research project. I hope to have an exciting experience in the next year.
 
 
 Selected publications
 ------
-- X Chen\*, **H Sha\***, et al. [Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454). ***Biomedical Optics Express*** 16(3), 1160-1171(2025).
+- H. Zheng\*, **H Sha\***, et al. [Rational Development of Nile Red Derivatives with Significantly Improved Specificity and Photostability for Lipid Droplets Fluorescence Bioimaging](https://www.sciencedirect.com/science/article/pii/S0956566325003689). ***Biosensors and Bioelectronics*** 282, 117494(2025).
+- X. Feng, Y. Jiang, **H. Sha**, et al. ROMA: Regularization for Out-of-distribution Detection with Masked Autoencoders. IEEE International Conference on Multimedia & Expo (ICME, 2025). (CCF B)
+- X Chen, **H Sha**, et al. [Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454). ***Biomedical Optics Express*** 16(3), 1160-1171(2025).
 - X Feng\*, **H Sha\***, et al. [Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7). ***Nature Computational Science*** 4(10), 761-772(2024).
 -	S Liu, B Chen, W Zou, **H Sha**, et al. [Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios](https://www.nature.com/articles/s44172-024-00236-x). ***Communications Engineering*** 3, 88(2024).
 -	S Liu, W Zou, **H Sha**, et al. [Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13918&id=548509). ***Optics Express*** 32(8), 13918-13931(2024).
