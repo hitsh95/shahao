@@ -48,9 +48,14 @@ Education Background
 
 Breaking News
 ------
+
+- [06/08/2025] 🎉🎉🎉 Our Single-molecule spectral tracking paper has been accepted by Nature Communications!
+
+- [23/06/2025] 🎉🎉🎉 Our manuscript titled "[Hyperspectral Fluorescence Imaging with a New Polarity-Ultrasensitive Fluorescent Probe](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792)" has been published by Advanced Science! Congratulations! 
+
 - [23/04/2025] 🎉🎉🎉 Our manuscript titled "[Rational development of Nile red derivatives with significantly improved specificity and photostability for advanced fluorescence imaging of lipid droplets](https://www.sciencedirect.com/science/article/pii/S0956566325003689)" has been published by Biosensors and Bioelectronics! Congratulations! 
 
-- [10/04/2025] 🎉🎉🎉Congratulations to me for being awarded the title of Outstanding Graduate of Heilongjiang Province in 2025
+- [10/04/2025] 🎉🎉🎉 Congratulations to me for being awarded the title of Outstanding Graduate of Heilongjiang Province in 2025
 
 - [26/02/2025] 🎉🎉🎉 Our manuscript titled "[Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454)" has been published by Biomedical Optics Express! Congratulations! 
 
@@ -64,6 +69,8 @@ Breaking News
 
 Selected publications
 ------
+- **H Sha**, Y. Wu, et al. Single-molecule dynamics imaging with 3D target-locking tracking. Nature Communications (Accepted) (2025).
+- R. Zhou*,  **H Sha\***, et.al., [Hyperspectral Fluorescence Imaging with A New Polarity-Ultrasensitive Fluorescent Probe](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792), ***Advanced Science***, e08792(2025). 
 - H. Zheng\*, **H Sha\***, et al. [Rational Development of Nile Red Derivatives with Significantly Improved Specificity and Photostability for Lipid Droplets Fluorescence Bioimaging](https://www.sciencedirect.com/science/article/pii/S0956566325003689). ***Biosensors and Bioelectronics*** 282, 117494(2025).
 - X. Feng, Y. Jiang, **H. Sha**, et al. ROMA: Regularization for Out-of-distribution Detection with Masked Autoencoders. IEEE International Conference on Multimedia & Expo (ICME, 2025). (CCF B)
 - X Chen, **H Sha**, et al. [Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454). ***Biomedical Optics Express*** 16(3), 1160-1171(2025).
