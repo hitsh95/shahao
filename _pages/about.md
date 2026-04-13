@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="home-intro">
-  <p>I am an Assistant Researcher at in the School of Computer Science at Harbin Institute of Technology (Shenzhen). My research focuses on multidimensional dynamic super-resolution imaging and tracking, with an emphasis on integrating optical imaging, computational modeling, and artificial intelligence to enable high spatiotemporal resolution observation and analysis of molecular dynamics.</p>
+  <p>I am an Assistant Researcher in the School of Computer Science at Harbin Institute of Technology (Shenzhen). My research focuses on multidimensional dynamic super-resolution imaging and tracking, with an emphasis on integrating optical imaging, computational modeling, and artificial intelligence to enable high spatiotemporal resolution observation and analysis of molecular dynamics.</p>
 
   <p>My future research aims to address the growing demand for high-throughput and intelligent imaging by developing AI-driven adaptive imaging and multidimensional dynamic tracking techniques. In addition, I seek to advance multispectral imaging and spatiotemporal information fusion methods, providing new tools and methodologies for investigating complex biological mechanisms. I work with <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> and have also collaborated closely with <a href="http://houlab.szbl.ac.cn/">Prof. Shangguo Hou</a> and <a href="https://rieslab.de/">Prof. Jonas Ries</a>. If you are interested in collaboration, please feel free to contact me at <a href="mailto:shahao@hit.edu.cn">shahao@hit.edu.cn</a>.</p>
 
