@@ -5,32 +5,69 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
-
 {% include base_path %}
 
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
+<p class="publications-note">
+  See more in <a href="https://scholar.google.com.hk/citations?user=-mqUZ8oAAAAJ&hl=zh-CN">Google Scholar</a>.<br>
+  * indicates co-first authorship, and # indicates corresponding author.
+</p>
+
+<div class="publications-tabs" data-publications-tabs>
+  <div class="publications-tab-list">
+    {% for section in site.data.publications.sections %}
+      <button class="publications-tab{% if forloop.first %} is-active{% endif %}" type="button" data-tab-target="year-{{ section.key }}">
+        {{ section.title }}
+      </button>
     {% endfor %}
+  </div>
+
+  {% for section in site.data.publications.sections %}
+    <div class="publications-panel{% if forloop.first %} is-active{% endif %}" id="year-{{ section.key }}">
+      <ul class="publications-year-list">
+        {% for item in section.items %}
+          <li>
+            <span class="publication-citation">{{ item.citation }}</span>
+            {% if item.pdf and item.pdf != "" %}
+              <a href="{{ item.pdf }}">[PDF]</a>
+            {% else %}
+              <span class="publication-link-placeholder">[PDF]</span>
+            {% endif %}
+            {% if item.webpage and item.webpage != "" %}
+              <a href="{{ item.webpage }}">[Webpage]</a>
+            {% else %}
+              <span class="publication-link-placeholder">[Webpage]</span>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </div>
   {% endfor %}
-{% else %}
-  {% for post in site.publications reversed %}
-    {% include archive-single.html %}
-  {% endfor %}
-{% endif %}
+</div>
 
+<script>
+  document.addEventListener("DOMContentLoaded", function () {
+    var wrapper = document.querySelector("[data-publications-tabs]");
+    if (!wrapper) return;
 
+    var tabs = wrapper.querySelectorAll("[data-tab-target]");
+    var panels = wrapper.querySelectorAll(".publications-panel");
 
+    tabs.forEach(function (tab) {
+      tab.addEventListener("click", function () {
+        var target = tab.getAttribute("data-tab-target");
+
+        tabs.forEach(function (item) {
+          item.classList.remove("is-active");
+        });
+
+        panels.forEach(function (panel) {
+          panel.classList.remove("is-active");
+        });
+
+        tab.classList.add("is-active");
+        var activePanel = wrapper.querySelector("#" + target);
+        if (activePanel) activePanel.classList.add("is-active");
+      });
+    });
+  });
+</script>

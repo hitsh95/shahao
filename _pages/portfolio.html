@@ -7,8 +7,30 @@ author_profile: true
 
 {% include base_path %}
 
-
+<div class="projects-list">
 {% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
+  <article class="project-card">
+    <h2 class="project-card__title">
+      <a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a>
+    </h2>
 
+    {% if post.excerpt %}
+      <p class="project-card__excerpt">{{ post.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</p>
+    {% endif %}
+
+    {% if post.preview_images %}
+      <div class="project-card__images{% if post.preview_images.size > 1 %} project-card__images--multi{% endif %}">
+        {% for image in post.preview_images %}
+          <a class="project-card__image" href="{{ base_path }}{{ post.url }}">
+            <img src="{% if image contains '://' %}{{ image }}{% else %}{{ image | prepend: '/' | prepend: base_path }}{% endif %}" alt="{{ post.title }}">
+          </a>
+        {% endfor %}
+      </div>
+    {% elsif post.header.teaser %}
+      <a class="project-card__image" href="{{ base_path }}{{ post.url }}">
+        <img src="{% if post.header.teaser contains '://' %}{{ post.header.teaser }}{% else %}{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="{{ post.title }}">
+      </a>
+    {% endif %}
+  </article>
+{% endfor %}
+</div>

@@ -1,6 +1,11 @@
 ---
 title: "Reliable deep learning in anomalous diffusion against out-of-distribution dynamics"
 collection: portfolio
+excerpt: "A general framework for reliable out-of-distribution dynamics detection in anomalous diffusion analysis."
+header:
+  teaser: "https://github.com/hitsh95/shahao/raw/master/files/projects/Traj_OOD/cover.jpg"
+preview_images:
+  - "https://github.com/hitsh95/shahao/raw/master/files/projects/Traj_OOD/cover.jpg"
 ---
 Deep Learning models poses a signifcant challenge for real-world applications, where unknown diffusionmodels are common. We present a general framework for evaluating deep-learning-based out-of-distribution (OOD) dynamics-detection methods.
 
@@ -15,5 +20,3 @@ Anomalous diffusion plays a crucial rule in understanding molecular-level dynami
 
 ##  OOD dynamics detection for anomalous diffusion recognition
 ![Introduction](https://github.com/hitsh95/shahao/raw/master/files/projects/Traj_OOD/NCS-Poster2.jpg)
-
-

@@ -1,6 +1,11 @@
 ---
 title: "Spectral Single-molecule Localization Microscopic imaging"
 collection: portfolio
+excerpt: "A deep learning-enhanced single-molecule spectrum imaging method for improving spectral imaging efficiency."
+header:
+  teaser: "https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/fig1.png"
+preview_images:
+  - "files/projects/SpecGAN/Supplementary-Movie-1.gif"
 ---
 We propose a deep learning-enhanced single-molecule spectrum imaging method (SpecGAN) for improving the single-molecule spectrum imaging efficiency.
 
@@ -15,5 +20,3 @@ Fluorescence is widely used in biological imaging and biosensing. Rich informati
 
 ##  Experimental setup and data process overview
 ![Introduction](https://github.com/hitsh95/shahao/raw/master/files/projects/SpecGAN/fig1.png)
-
-

@@ -1,6 +1,12 @@
 ---
 title: "3D-SpecDIM"
 collection: portfolio
+excerpt: "A three-dimensional target-locking-based single-molecule fluorescence spectrum dynamics imaging microscopy platform for multiparameter dynamic imaging."
+header:
+  teaser: "https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/figure1.jpg"
+preview_images:
+  - "files/projects/3d_SpecDIM/Supplementary-Movie-1.gif"
+  - "files/projects/3d_SpecDIM/Supplementary-Movie-2.gif"
 ---
 
 We report a three-dimensional target-locking-based single-molecule fluorescence Spectrum Dynamics Imaging Microscopy (3D-SpecDIM), a method capable of simultaneously capturing both rapid 3D positional dynamics and physicochemical parameter changing dynamics.
@@ -19,5 +25,3 @@ Fluorescence spectra offer rich physicochemical insights into molecular environm
 
 ## Schematic of 3D-SpecDIM
 ![Schematic of 3D-SpecDIM](https://github.com/hitsh95/shahao/raw/master/files/projects/3d_SpecDIM/figure1.jpg)
-
-

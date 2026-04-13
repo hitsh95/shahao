@@ -1,0 +1,61 @@
+sections:
+  - key: "2026"
+    title: "2026"
+    items:
+      - citation: "Chen T, Y. Wang, X. Feng, Z. Zhu, <span class='pub-author-highlight'>H. Sha</span>, Y. Li, et al. Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026). <span style='color:#c62828;'>CCF-A</span>"
+        pdf:
+        webpage: https://ojs.aaai.org/index.php/AAAI/article/view/37296
+      - citation: "Chen T, <span class='pub-author-highlight'>Sha H</span>, Wang Y, Jiang Y, Liu S, Zhou Z, et al. A channel-adaptive and plug-and-play framework for hyperspectral image analysis. Information Fusion. 127:103770 (2026). <span style='color:#c62828;'>IF=15.5</span>"
+        pdf:
+        webpage: https://www.sciencedirect.com/science/article/abs/pii/S1566253525008322?via%3Dihub
+
+  - key: "2025"
+    title: "2025"
+    items:
+      - citation: "<span class='pub-author-highlight'>Sha H*</span>, Wu Y, Zhang Y, Liu R, Feng X, Li H, et al. Single molecule spectrum dynamics imaging with 3D target-locking tracking. <span style='color:#c62828;'>Nature Communications</span>. 16(1):8686 (2025). <span style='color:#c62828;'>IF=15.7</span>"
+        pdf:
+        webpage: https://www.nature.com/articles/s41467-025-63787-3
+      - citation: "Zhou R*, <span class='pub-author-highlight'>Sha H*</span>, Fu S*, Liu G, Wei J, Wang C, et al. Hyperspectral Fluorescence Imaging with a New Polarity-Ultrasensitive Fluorescent Probe. Advanced Science. 12:e08792 (2025). <span style='color:#c62828;'>IF=14.1</span>"
+        pdf:
+        webpage: https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792
+      - citation: "Zheng H*, <span class='pub-author-highlight'>Sha H*</span>, Zhou R*, Wu Y, Wang C, Hou S, et al. Rational development of Nile red derivatives with significantly improved specificity and photostability for advanced fluorescence imaging of lipid droplets. Biosensors and Bioelectronics. 282:117494 (2025). <span style='color:#c62828;'>IF=10.5</span>"
+        pdf: "https://hitsh95.github.io/shahao/files/Sha_BBO_2025-main.pdf"
+        webpage: https://www.sciencedirect.com/science/article/abs/pii/S0956566325003689?via%3Dihub
+      - citation: "Feng X*, Jiang Y*, <span class='pub-author-highlight'>Sha H</span>, Zhang Y, editors. ROMA: Regularization for Out-of-distribution Detection with Masked Autoencoders. IEEE International Conference on Multimedia and Expo (ICME 2025). (CCF B)"
+        pdf:
+        webpage: https://ieeexplore.ieee.org/abstract/document/11209784/
+      - citation: "Munoz-Gil G, Bachimanchi H, Pineda J, Midtvedt B, Fernandez-Fernandez G, Requena B, et al. Quantitative evaluation of methods to analyze motion changes in single-particle experiments. <span style='color:#c62828;'>Nature Communications</span>. 16(1):6749 (2025). <span style='color:#c62828;'>IF=15.7</span>"
+        pdf:
+        webpage: https://www.nature.com/articles/s41467-025-61949-x
+      - citation: "Chen X, <span class='pub-author-highlight'>Sha H</span>, Chen C, Jiang Y, Zou W, Zhang Y. Adaptive lensless microscopic imaging with unknown phase modulation. Biomedical Optics Express. 16(3):1160-1171 (2025). <span style='color:#c62828;'>IF=3.2</span>"
+        pdf: "https://hitsh95.github.io/shahao/files/boe-16-3-1160.pdf"
+        webpage: https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454
+
+  - key: "2024"
+    title: "2024"
+    items:
+      - citation: "Feng X*, <span class='pub-author-highlight'>Sha H*</span>, Zhang Y*, Su Y, Liu S, Jiang Y, et al. Reliable deep learning in anomalous diffusion against out-of-distribution dynamics. <span style='color:#c62828;'>Nature Computational Science</span>. 4(10):761-772 (2024). <span style='color:#c62828;'>IF=18.3</span>"
+        pdf: "http://hitsh95.github.io/shahao/files/s43588-024-00703-7.pdf"
+        webpage: https://www.nature.com/articles/s43588-024-00703-7
+      - citation: "Liu S*, Chen B*, Zou W, <span class='pub-author-highlight'>Sha H</span>, Feng X, Han S, et al. Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios. Communications Engineering. 3(1):88 (2024)."
+        pdf: "http://hitsh95.github.io/shahao/files/s44172-024-00236-x.pdf"
+        webpage: https://www.nature.com/articles/s44172-024-00236-x
+      - citation: "Liu S*, Zou W*, <span class='pub-author-highlight'>Sha H</span>, Feng X, Chen B, Zhang J, et al. Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system. Optics Express. 32(8):13918-13931 (2024). <span style='color:#c62828;'>IF=3.3</span>"
+        pdf: "https://hitsh95.github.io/shahao/files/oe-32-8-13918.pdf"
+        webpage: https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13918&id=548509
+
+  - key: "before"
+    title: "Before"
+    items:
+      - citation: "<span class='pub-author-highlight'>Sha H</span>, Li H, Zhang Y, Hou S. Deep learning-enhanced single-molecule spectrum imaging. APL Photonics. 8(9):096102 (2023). <span style='color:#c62828;'>IF=5.3</span>"
+        pdf: "http://hitsh95.github.io/shahao/files/096102_1_5.0156793.pdf"
+        webpage: https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13918&id=548509
+      - citation: "Jiang Y*, <span class='pub-author-highlight'>Sha H*</span>, Liu S, Qin P, Zhang Y. AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging. Biomedical Optics Express. 14(9):4814-4827 (2023). <span style='color:#c62828;'>IF=3.2</span>"
+        pdf: "https://hitsh95.github.io/shahao/files/boe-14-9-4814.pdf"
+        webpage: https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-9-4814&id=536669
+      - citation: "Liu S*, Li P*, <span class='pub-author-highlight'>Sha H</span>, Dong J, Huang Y, Zhao Y, et al. Intensity and phase imaging through scattering media via deep despeckle complex neural networks. Optics and Lasers in Engineering. 159:107196 (2022). <span style='color:#c62828;'>IF=3.7</span>"
+        pdf: "http://hitsh95.github.io/shahao/files/1-s2.0-S0143816622002494-main.pdf"
+        webpage: https://www.sciencedirect.com/science/article/abs/pii/S0143816622002494
+      - citation: "<span class='pub-author-highlight'>Sha H</span>, Liu Y, Zhang Y. 基于深度学习的傅里叶叠层成像技术. Laser & Optoelectronics Progress. 58(18) (2021). <span style='color:#c62828;'>IF=1.0</span>"
+        pdf: "https://hitsh95.github.io/shahao/files/1811020.pdf"
+        webpage: https://www.opticsjournal.net/Articles/OJ2185550bb830cec8/FullText

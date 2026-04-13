@@ -2,85 +2,167 @@
 permalink: /
 title: "Sha Hao"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 
-I am currently a 4th year PhD student in the Department of Computer Science, Harbin Institute of Technology (Shenzhen). Previously, I received my MSE and BSE degrees from Central South University and Luoyang Institute of Technology in 2020 and 2017. My Ph.D. supervisors are <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> from Harbin Institute of Technology (Shenzhen), <a href="http://houlab.szbl.ac.cn/"> Assistant Prof. Shangguo Hou</a> from Shenzhen Bay Laboratory and [Prof. Jonas Ries](https://rieslab.de) from Max Perutz Lab. My research interests lie primarily in super-resolution imaging and single-molecule tracking. During my study in HIT and SZBL, I developed a single molecule spectrum tracking system. With this system, we can track the spectrum of single molecules at the spatiotemporal scale of millisecond-nanometers. Besides, I also had a good time with <a href="https://www.sigs.tsinghua.edu.cn/hsy_en/main.htm">Assistant Prof. Sanyang Han</a> and <a href="https://ee.jlu.edu.cn/en/info/1028/1106.htm"> Prof. Chenguang Wang</a>.
+<div class="home-intro">
+  <p>I am an Assistant Researcher at in the School of Computer Science at Harbin Institute of Technology (Shenzhen). My research focuses on multidimensional dynamic super-resolution imaging and tracking, with an emphasis on integrating optical imaging, computational modeling, and artificial intelligence to enable high spatiotemporal resolution observation and analysis of molecular dynamics.</p>
 
-Find more details in his curriculum vitae -> [CV](https://github.com/hitsh95/shahao/raw/master/files/CV(Eng)_20241122.pdf)
+  <p>My future research aims to address the growing demand for high-throughput and intelligent imaging by developing AI-driven adaptive imaging and multidimensional dynamic tracking techniques. In addition, I seek to advance multispectral imaging and spatiotemporal information fusion methods, providing new tools and methodologies for investigating complex biological mechanisms. I work with <a href="https://faculty.hitsz.edu.cn/zhangyongbing">Prof. Yongbing Zhang</a> and have also collaborated closely with <a href="http://houlab.szbl.ac.cn/">Prof. Shangguo Hou</a> and <a href="https://rieslab.de/">Prof. Jonas Ries</a>. If you are interested in collaboration, please feel free to contact me at <a href="mailto:shahao@hit.edu.cn">shahao@hit.edu.cn</a>.</p>
+
+</div>
+
+<div class="home-links home-contact-list">
+  <a href="mailto:shahao@hit.edu.cn"><i class="fas fa-envelope" aria-hidden="true"></i><span>shahao@hit.edu.cn</span></a>
+  <a href="https://scholar.google.com.hk/citations?user=-mqUZ8oAAAAJ&hl=zh-CN"><i class="ai ai-google-scholar" aria-hidden="true"></i><span>Google Scholar</span></a>
+  <a href="https://orcid.org/my-orcid?orcid=0000-0002-3231-1570"><i class="ai ai-orcid" aria-hidden="true"></i><span>ORCID</span></a>
+  <a href="https://github.com/hitsh95"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
+</div>
+
+<section class="home-section">
+  <h2>Work Experience</h2>
+  <ul class="home-record-list">
+    <li class="home-record-item">
+      <span class="home-record-logo-wrap">
+        <img class="home-item-logo" src="../images/哈工大logo.png" alt="Harbin Institute of Technology (Shenzhen) logo">
+      </span>
+      <span class="home-record-content">
+        <span class="home-record-title">Harbin Institute of Technology (Shenzhen), Assistant Researcher</span>
+        <span class="home-record-subtitle">School of Computer Science and Technology</span>
+      </span>
+      <span class="home-record-time">Dec 2025 - Present</span>
+    </li>
+    <li class="home-record-item">
+      <span class="home-record-logo-wrap">
+        <img class="home-item-logo" src="../images/ZTE.png" alt="ZTE Corporation logo">
+      </span>
+      <span class="home-record-content">
+        <span class="home-record-title">ZTE Corporation, Software Development Engineer</span>
+        <span class="home-record-subtitle">Software development and engineering implementation in industrial projects</span>
+      </span>
+      <span class="home-record-time">Aug 2020 - Aug 2021</span>
+    </li>
+  </ul>
+</section>
+
+<section class="home-section">
+  <h2>Education</h2>
+  <ul class="home-record-list">
+    <li class="home-record-item">
+      <span class="home-record-logo-wrap">
+        <img class="home-item-logo" src="../images/哈工大logo.png" alt="Harbin Institute of Technology (Shenzhen) logo">
+      </span>
+      <span class="home-record-content">
+        <span class="home-record-title">Harbin Institute of Technology (Shenzhen), Ph.D. in Engineering</span>
+        <span class="home-record-subtitle">Research on dynamic multi-dimensional super-resolution imaging and tracking</span>
+      </span>
+      <span class="home-record-time">Sep 2021 - Dec 2025</span>
+    </li>
+    <li class="home-record-item">
+      <span class="home-record-logo-wrap">
+        <img class="home-item-logo" src="../images/wien.png" alt="University of Vienna logo">
+      </span>
+      <span class="home-record-content">
+        <span class="home-record-title">University of Vienna, China Scholarship Council Joint Ph.D. Program</span>
+        <span class="home-record-subtitle">Joint doctoral research in advanced microscopy and cellular dynamics</span>
+      </span>
+      <span class="home-record-time">Sep 2024 - Sep 2025</span>
+    </li>
+    <li class="home-record-item">
+      <span class="home-record-logo-wrap">
+        <img class="home-item-logo" src="../images/csu.gif" alt="Central South University logo">
+      </span>
+      <span class="home-record-content">
+        <span class="home-record-title">Central South University, M.S. in Engineering</span>
+        <span class="home-record-subtitle">Research focus on intelligent detection and automation</span>
+      </span>
+      <span class="home-record-time">Sep 2017 - Jun 2020</span>
+    </li>
+    <li class="home-record-item">
+      <span class="home-record-logo-wrap">
+        <img class="home-item-logo" src="../images/lit.jpg" alt="Luoyang Institute of Science and Technology logo">
+      </span>
+      <span class="home-record-content">
+        <span class="home-record-title">Luoyang Institute of Science and Technology, B.S. in Engineering</span>
+        <span class="home-record-subtitle">Undergraduate training in automation and engineering practice</span>
+      </span>
+      <span class="home-record-time">Sep 2013 - Jun 2017</span>
+    </li>
+  </ul>
+</section>
 
 
-Education Background
-======
 
-**Harbin Institute of Technology (Shenzhen)** `2021.09 - `
+<section class="home-section">
+  <h2>Recent News</h2>
+  <ul class="home-news-list">
+    <li>
+      <span class="home-news-time">Jan 2026</span>
+      <span class="home-news-body">
+        🎊One paper was accepted in the Fortieth AAAI Conference on Artificial Intelligence
+        <em style="color: red;"> (AAAI-26, CCF-A)</em>.
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37296" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Jan 2026</span>
+      <span class="home-news-body">
+        👏I have earned my PhD and joined the School of Computer Science and Technology at HITsz as an Assistant Researcher. I hope everything goes smoothly in the future.
+        <a href="https://homepage.hit.edu.cn/shahao?lang=zh" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Aug 2025</span>
+      <span class="home-news-body">
+        🎊Our paper on single-molecule dynamics imaging with 3D target-locking tracking was accepted by 
+        <em style="color: red;">Nature Communications</em>.
+        <a href="https://www.nature.com/articles/s41467-025-63787-3" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Jun 2025</span>
+      <span class="home-news-body">
+        🎊Our work on hyperspectral fluorescence imaging with a polarity-ultrasensitive fluorescent probe was published in 
+        <em style="color: red;">Advanced Science</em>.
+        <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Apr 2025</span>
+      <span class="home-news-body">
+        🎊Our work on Nile Red derivatives for advanced fluorescence imaging of lipid droplets was published in  
+        <em style="color: red;">Biosensors and Bioelectronics</em>.
+        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0956566325003689?via%3Dihub" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Oct 2024</span>
+      <span class="home-news-body">
+        🎊Our work on reliable deep learning in anomalous diffusion against out-of-distribution dynamics was published in
+        <em style="color: red;">Nature Computational Science</em> and was selceted as cover article!
+        <a href="https://www.nature.com/articles/s43588-024-00703-7" target="_blank">[Link]</a>
+      </span>
+    </li>
+  </ul>
+</section>
 
-- Ph.D. in Electronic Information, School of Computer Science and Technology
-- Computing imaging, Artificial intelligence
-- advised by [Prof. Yongbing Zhang](https://scholar.google.com/citations?user=0KlvTEYAAAAJ&hl=en)
+<section class="home-section">
+  <h2>Honors & Awards</h2>
+  <ul class="home-compact-list">
+    <li><span class="home-item-time">2024</span><span class="home-item-body">BYD Doctoral Scholarship, Harbin Institute of Technology (Shenzhen)</span></li>
+    <li><span class="home-item-time">2023</span><span class="home-item-body">Distinguished Director Scholarship, Shenzhen Bay Laboratory</span></li>
+    <li><span class="home-item-time">2019</span><span class="home-item-body">Highpower Technology Scholarship, Central South University</span></li>
+    <li><span class="home-item-time">2017</span><span class="home-item-body">Excellent Bachelor Thesis Award, Luoyang Institute of Science and Technology</span></li>
+    <li><span class="home-item-time">2016, 2015</span><span class="home-item-body">National Encouragement Scholarship</span></li>
+    <li><span class="home-item-time">2015</span><span class="home-item-body">First Prize, RoboCup Humanoid Robot Climbing Challenge</span></li>
+    <li><span class="home-item-time">2015</span><span class="home-item-body">First Prize, Henan Province 12th Challenge Cup</span></li>
+    <li><span class="home-item-time">2014</span><span class="home-item-body">First Prize, iCAN International Contest of Innovation</span></li>
+    <li><span class="home-item-time">2014</span><span class="home-item-body">First Prize, RoboCup Humanoid Robot Racing Challenge</span></li>
+  </ul>
+</section>
 
-**University of Vienna** `2024.09 - 2025.09`
-
-- Joint Ph.D. in Advanced Microscopy and Cellular Dynamics at the Max Perutz labs
-- Single Molecule Localization Super-resolution Microscope, Deep Learning
-- advised by [Prof. Jonas Ries](https://rieslab.de/)
-
-**Shenzhen Bay Laboratory** `2022.01 - 2024.09`
-
-- Visiting student at the Institute of Systems and Physical Biology
-- Single particle tracking, super-resolution imaging, spectrum imaging
-- Co-advised by [Assistant Prof. Shangguo Hou](https://www.szbl.ac.cn/en/scientificresearch/researchteam/2044.html) 
-
-
-**Central South University** `2017.9 - 2020.6`
-
-- GPA 3.6/4.0, Ranked 11 out of 168 students
-- M.S. in Mechanical engineering, _Summa Cum Laude_
-- Intelligent detection, Automation
-
-**LuoYang Institute of Technology** `2013.9 - 2017.6`
-
-- GPA 3.5/4.0, Ranked No.1 totally
-- B.S. in Automation, _Summa Cum Laude_
-- Mechanical Engineering Departmental Honors
-
-Breaking News
-------
-
-- [06/08/2025] 🎉🎉🎉 Our Single-molecule spectral tracking paper has been accepted by Nature Communications!
-
-- [23/06/2025] 🎉🎉🎉 Our manuscript titled "[Hyperspectral Fluorescence Imaging with a New Polarity-Ultrasensitive Fluorescent Probe](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792)" has been published by Advanced Science! Congratulations! 
-
-- [23/04/2025] 🎉🎉🎉 Our manuscript titled "[Rational development of Nile red derivatives with significantly improved specificity and photostability for advanced fluorescence imaging of lipid droplets](https://www.sciencedirect.com/science/article/pii/S0956566325003689)" has been published by Biosensors and Bioelectronics! Congratulations! 
-
-- [10/04/2025] 🎉🎉🎉 Congratulations to me for being awarded the title of Outstanding Graduate of Heilongjiang Province in 2025
-
-- [26/02/2025] 🎉🎉🎉 Our manuscript titled "[Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454)" has been published by Biomedical Optics Express! Congratulations! 
-
-- [13/12/2024] 🎉🎉🎉 I have been awarded the BYD Doctoral Scholarship of the School of Computer Science and Technology of Harbin Institute of Technology (Shenzhen) for 2024!! 
-
-- [11/10/2024] 🎉🎉🎉 Our manuscript titled "[Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7)" has been published by Nature Computation Science! I am the co-first author and congratulations to Xiaochen!
-
-- [19/08/2024] 🎉🎉🎉 Congratulations to Senior Brother Liu Shuai on successfully defending his PhD thesis. Wishing him all the best in his future endeavors!!
-
-
-
-Selected publications
-------
-- **H Sha**, Y. Wu, et al. Single-molecule dynamics imaging with 3D target-locking tracking. Nature Communications (Accepted) (2025).
-- R. Zhou*,  **H Sha\***, et.al., [Hyperspectral Fluorescence Imaging with A New Polarity-Ultrasensitive Fluorescent Probe](https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792), ***Advanced Science***, e08792(2025). 
-- H. Zheng\*, **H Sha\***, et al. [Rational Development of Nile Red Derivatives with Significantly Improved Specificity and Photostability for Lipid Droplets Fluorescence Bioimaging](https://www.sciencedirect.com/science/article/pii/S0956566325003689). ***Biosensors and Bioelectronics*** 282, 117494(2025).
-- X. Feng, Y. Jiang, **H. Sha**, et al. ROMA: Regularization for Out-of-distribution Detection with Masked Autoencoders. IEEE International Conference on Multimedia & Expo (ICME, 2025). (CCF B)
-- X Chen, **H Sha**, et al. [Adaptive lensless microscopic imaging with unknown phase modulation](https://opg.optica.org/boe/fulltext.cfm?uri=boe-16-3-1160&id=568454). ***Biomedical Optics Express*** 16(3), 1160-1171(2025).
-- X Feng\*, **H Sha\***, et al. [Reliable deep learning in anomalous diffusion against out-of-distribution dynamics](https://www.nature.com/articles/s43588-024-00703-7). ***Nature Computational Science*** 4(10), 761-772(2024).
--	S Liu, B Chen, W Zou, **H Sha**, et al. [Compressive confocal microscopy imaging at the single-photon level with ultra-low sampling ratios](https://www.nature.com/articles/s44172-024-00236-x). ***Communications Engineering*** 3, 88(2024).
--	S Liu, W Zou, **H Sha**, et al. [Deep learning-enhanced snapshot hyperspectral confocal microscopy imaging system](https://opg.optica.org/oe/fulltext.cfm?uri=oe-32-8-13918&id=548509). ***Optics Express*** 32(8), 13918-13931(2024).
--	**H Sha**, H Li, Y Zhang, S Hou. [Deep learning-enhanced single-molecule spectrum imaging](https://pubs.aip.org/aip/app/article/8/9/096102/2909381/Deep-learning-enhanced-single-molecule-spectrum). ***APL Photonics*** 8(9), 096102(2023).
--	Y Jiang\*, **H Sha\***, S Liu, P Qin, Y Zhang. [AutoUnmix: an autoencoder-based spectral unmixing method for multi-color fluorescence microscopy imaging](https://opg.optica.org/boe/fulltext.cfm?uri=boe-14-9-4814&id=536669). ***Biomedical Optics Express*** 14(9), 4814-4827(2023).
-- S Liu, P Li, **H Sha**, et al. [Intensity and phase imaging through scattering media via deep despeckle complex neural networks](https://www.sciencedirect.com/science/article/abs/pii/S0143816622002494). ***Optics and Lasers in Engineering*** 159, 107196(2022).
--	**H Sha\***, Y Liu\*, Y Zhang. 基于深度学习的傅里叶叠层成像技术. ***Laser & Optoelectronics Progress*** 58(18), 1811020(2021).
-
-
-
+<div class="home-note">
+  Additional publications can be found on the <a href="/publications/">full publications page</a>.
+</div>
