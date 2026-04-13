@@ -1,0 +1,14 @@
+team_members:
+  - name: "Name Here"
+    role: "Ph.D. Student / Research Assistant / Visiting Student"
+    affiliation: "Harbin Institute of Technology (Shenzhen)"
+    research: "Research interests or a one-sentence introduction go here."
+    email: "name@example.com"
+    website: ""
+    image: ""
+
+alumni:
+  - name: "Alumni Name"
+    period: "2022 - 2025"
+    destination: "Current affiliation or destination"
+    note: "Optional short note"

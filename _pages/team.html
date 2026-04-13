@@ -5,4 +5,55 @@ permalink: /team/
 author_profile: true
 ---
 
-Coming soon.
+<section class="team-section">
+  <h2>Team Members</h2>
+  <div class="team-grid">
+    {% for member in site.data.team.team_members %}
+      <article class="team-card">
+        <div class="team-card__avatar">
+          {% if member.image and member.image != "" %}
+            <img src="{{ member.image }}" alt="{{ member.name }}">
+          {% else %}
+            <div class="team-card__avatar-placeholder">{{ member.name | slice: 0 }}</div>
+          {% endif %}
+        </div>
+        <div class="team-card__body">
+          <h3 class="team-card__name">{{ member.name }}</h3>
+          <p class="team-card__role">{{ member.role }}</p>
+          <p class="team-card__affiliation">{{ member.affiliation }}</p>
+          <p class="team-card__research">{{ member.research }}</p>
+          <p class="team-card__links">
+            {% if member.email and member.email != "" %}
+              <a href="mailto:{{ member.email }}">Email</a>
+            {% endif %}
+            {% if member.website and member.website != "" %}
+              <a href="{{ member.website }}">Website</a>
+            {% endif %}
+          </p>
+        </div>
+      </article>
+    {% endfor %}
+  </div>
+</section>
+
+<section class="team-section">
+  <h2>Alumni</h2>
+  <div class="alumni-list">
+    {% for member in site.data.team.alumni %}
+      <article class="alumni-item">
+        <h3 class="alumni-item__name">{{ member.name }}</h3>
+        <p class="alumni-item__meta">
+          {% if member.period and member.period != "" %}
+            <span>{{ member.period }}</span>
+          {% endif %}
+          {% if member.destination and member.destination != "" %}
+            <span>{{ member.destination }}</span>
+          {% endif %}
+        </p>
+        {% if member.note and member.note != "" %}
+          <p class="alumni-item__note">{{ member.note }}</p>
+        {% endif %}
+      </article>
+    {% endfor %}
+  </div>
+</section>
