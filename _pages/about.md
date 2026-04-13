@@ -26,7 +26,7 @@ redirect_from:
   <ul class="home-record-list">
     <li class="home-record-item">
       <span class="home-record-logo-wrap">
-        <img class="home-item-logo" src="../images/哈工大logo.png" alt="Harbin Institute of Technology (Shenzhen) logo">
+        <img class="home-item-logo" src="https://hitsh95.github.io/shahao/images/哈工大logo.png" alt="Harbin Institute of Technology (Shenzhen) logo">
       </span>
       <span class="home-record-content">
         <span class="home-record-title">Harbin Institute of Technology (Shenzhen), Assistant Researcher</span>
@@ -36,7 +36,7 @@ redirect_from:
     </li>
     <li class="home-record-item">
       <span class="home-record-logo-wrap">
-        <img class="home-item-logo" src="../images/ZTE.png" alt="ZTE Corporation logo">
+        <img class="home-item-logo" src="https://hitsh95.github.io/shahao/images/ZTE.png" alt="ZTE Corporation logo">
       </span>
       <span class="home-record-content">
         <span class="home-record-title">ZTE Corporation, Software Development Engineer</span>
@@ -52,7 +52,7 @@ redirect_from:
   <ul class="home-record-list">
     <li class="home-record-item">
       <span class="home-record-logo-wrap">
-        <img class="home-item-logo" src="../images/哈工大logo.png" alt="Harbin Institute of Technology (Shenzhen) logo">
+        <img class="home-item-logo" src="https://hitsh95.github.io/shahao/images/哈工大logo.png" alt="Harbin Institute of Technology (Shenzhen) logo">
       </span>
       <span class="home-record-content">
         <span class="home-record-title">Harbin Institute of Technology (Shenzhen), Ph.D. in Engineering</span>
@@ -62,7 +62,7 @@ redirect_from:
     </li>
     <li class="home-record-item">
       <span class="home-record-logo-wrap">
-        <img class="home-item-logo" src="../images/wien.png" alt="University of Vienna logo">
+        <img class="home-item-logo" src="https://hitsh95.github.io/shahao/images/wien.png" alt="University of Vienna logo">
       </span>
       <span class="home-record-content">
         <span class="home-record-title">University of Vienna, China Scholarship Council Joint Ph.D. Program</span>
@@ -72,7 +72,7 @@ redirect_from:
     </li>
     <li class="home-record-item">
       <span class="home-record-logo-wrap">
-        <img class="home-item-logo" src="../images/csu.gif" alt="Central South University logo">
+        <img class="home-item-logo" src="https://hitsh95.github.io/shahao/images/csu.gif" alt="Central South University logo">
       </span>
       <span class="home-record-content">
         <span class="home-record-title">Central South University, M.S. in Engineering</span>
@@ -82,7 +82,7 @@ redirect_from:
     </li>
     <li class="home-record-item">
       <span class="home-record-logo-wrap">
-        <img class="home-item-logo" src="../images/lit.jpg" alt="Luoyang Institute of Science and Technology logo">
+        <img class="home-item-logo" src="https://hitsh95.github.io/shahao/images/lit.jpg" alt="Luoyang Institute of Science and Technology logo">
       </span>
       <span class="home-record-content">
         <span class="home-record-title">Luoyang Institute of Science and Technology, B.S. in Engineering</span>
