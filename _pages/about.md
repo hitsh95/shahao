@@ -122,6 +122,14 @@ redirect_from:
       </span>
     </li>
     <li>
+      <span class="home-news-time">Jul 2025</span>
+      <span class="home-news-body">
+        👏We received the World Artificial Intelligence Conference (WAIC 2025) Youth Outstanding Paper Nomination Award 
+        <em style="color: red;">(Only 10 items)</em>.
+        <a href="https://www.waicyop.cn/article/15" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
       <span class="home-news-time">Jun 2025</span>
       <span class="home-news-body">
         🎊Our work on hyperspectral fluorescence imaging with a polarity-ultrasensitive fluorescent probe was published in 
@@ -151,6 +159,7 @@ redirect_from:
 <section class="home-section">
   <h2>Honors & Awards</h2>
   <ul class="home-compact-list">
+     <li><span class="home-item-time">2025</span><span class="home-item-body">World Artificial Intelligence Conference Youth Outstanding Paper Nomination Award, Shanghai Association for Science and Technology</span></li>
     <li><span class="home-item-time">2024</span><span class="home-item-body">BYD Doctoral Scholarship, Harbin Institute of Technology (Shenzhen)</span></li>
     <li><span class="home-item-time">2023</span><span class="home-item-body">Distinguished Director Scholarship, Shenzhen Bay Laboratory</span></li>
     <li><span class="home-item-time">2019</span><span class="home-item-body">Highpower Technology Scholarship, Central South University</span></li>
