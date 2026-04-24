@@ -18,5 +18,6 @@
     <h3 class="author__name">{{ author.name }}</h3>
     <p class="author__bio">Assistant researcher fellow in Harbin Institute of Technology (Shenzhen)</p>
     <p class="author__email"><a href="mailto:shahao@hit.edu.cn">shahao@hit.edu.cn</a></p>
+    {% if author.uri %}<p class="author__email"><a href="{{ author.uri }}">中文主页</a></p>{% endif %}
   </div>
 </div>
