@@ -1,0 +1,37 @@
+featured_limit: 3
+
+group_photo:
+  image: ""
+  alt: "Group photo"
+  caption: ""
+
+activities: 
+  - title: "Lab Retreat 2026"
+    date: "2026"
+    location: "Hongkong"
+    description: "A relaxed hiking and shared time in Hongkong."
+    cover: "/images/lab-life/retreat-2026/photo-2.jpeg"
+    photos:
+      - image: "/images/lab-life/retreat-2026/cover.jpeg"
+        alt: "MacLehose Trail Challenge"
+      - image: "/images/lab-life/retreat-2026/photo-1.jpeg"
+        alt: "City walking in Hongkong Central District"
+      - image: "/images/lab-life/retreat-2026/photo-2.jpeg"
+        alt: "Seafood Self-service"
+
+
+# Example:
+#
+# activities:
+#   - title: "Lab Retreat 2026"
+#     date: "2026"
+#     location: "Shenzhen"
+#     description: "A relaxed retreat with group discussions and shared time outside the lab."
+#     cover: "/images/lab-life/retreat-2026/cover.jpg"
+#     photos:
+#       - image: "/images/lab-life/retreat-2026/cover.jpg"
+#         alt: "Lab retreat group photo"
+#       - image: "/images/lab-life/retreat-2026/photo-1.jpg"
+#         alt: "Lab retreat activity photo"
+#       - image: "/images/lab-life/retreat-2026/photo-2.jpg"
+#         alt: "Lab retreat activity photo"

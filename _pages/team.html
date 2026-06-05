@@ -36,6 +36,33 @@ author_profile: true
   </div>
 </section>
 
+<section class="team-section lab-life-preview">
+  <div class="team-section__heading-row">
+    <h2>Lab Life</h2>
+    <a class="team-section__more-link" href="/lab-life/">View more</a>
+  </div>
+
+  {% if site.data.lab_life.activities and site.data.lab_life.activities.size > 0 %}
+    <div class="lab-photo-grid">
+    {% assign featured_activities = site.data.lab_life.activities | slice: 0, site.data.lab_life.featured_limit %}
+    {% for activity in featured_activities %}
+      <article class="lab-photo-card lab-photo-card--preview">
+        <a href="/lab-life/">
+          <img src="{{ activity.cover }}" alt="{{ activity.title }}">
+          <span class="lab-photo-card__body">
+            <span class="lab-photo-card__title">{{ activity.title }}</span>
+            <span class="lab-photo-card__meta">
+              {% if activity.date and activity.date != "" %}{{ activity.date }}{% endif %}
+              {% if activity.location and activity.location != "" %}<span>{{ activity.location }}</span>{% endif %}
+            </span>
+          </span>
+        </a>
+      </article>
+    {% endfor %}
+    </div>
+  {% endif %}
+</section>
+
 <section class="team-section">
   <h2>Alumni</h2>
   <div class="alumni-list">

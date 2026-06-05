@@ -166,6 +166,27 @@ body,
   letter-spacing: 0.01em;
 }
 
+.home-group-photo {
+  margin: 0;
+}
+
+.home-group-photo img {
+  display: block;
+  width: 100%;
+  max-height: 22rem;
+  border-radius: 8px;
+  object-fit: cover;
+  background: #f3f4f6;
+}
+
+.home-group-photo figcaption {
+  margin-top: 0.45rem;
+  color: #6b7280;
+  font-size: 0.84rem;
+  line-height: 1.35;
+  text-align: center;
+}
+
 .home-compact-list,
 .home-news-list {
   margin: 0;
@@ -491,6 +512,25 @@ body,
   font-size: 1.2rem;
 }
 
+.team-section__heading-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.team-section__heading-row h2 {
+  margin-bottom: 0;
+}
+
+.team-section__more-link {
+  flex: 0 0 auto;
+  font-size: 0.86rem;
+  font-weight: 600;
+  text-decoration: none;
+}
+
 .team-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
@@ -591,6 +631,104 @@ body,
 .alumni-item__meta span + span::before {
   content: " | ";
   color: #cbd5e1;
+}
+
+.lab-life-intro {
+  max-width: 44rem;
+  margin: 0 0 1.4rem;
+  color: #4b5563;
+  font-size: 0.95rem;
+  line-height: 1.5;
+}
+
+.lab-activity {
+  margin-bottom: 2rem;
+}
+
+.lab-activity__header {
+  margin-bottom: 0.45rem;
+}
+
+.lab-activity__header h2 {
+  margin: 0 0 0.2rem;
+  padding-left: 0.65rem;
+  border-left: 4px solid #1d4ed8;
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.lab-activity__header p,
+.lab-activity__description {
+  margin: 0.2rem 0;
+  color: #6b7280;
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.lab-activity__header span + span::before,
+.lab-photo-card__meta span::before {
+  content: " | ";
+  color: #cbd5e1;
+}
+
+.lab-photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 0.85rem;
+}
+
+.lab-photo-grid--full {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  margin-top: 0.85rem;
+}
+
+.lab-photo-card {
+  margin: 0;
+  overflow: hidden;
+  border: 1px solid #edf0f4;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.04);
+}
+
+.lab-photo-card a {
+  display: block;
+  color: inherit;
+  text-decoration: none;
+}
+
+.lab-photo-card img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 3;
+  object-fit: cover;
+  background: #f3f4f6;
+}
+
+.lab-photo-card__body {
+  display: block;
+  padding: 0.65rem 0.75rem 0.7rem;
+}
+
+.lab-photo-card__title {
+  display: block;
+  color: #111827;
+  font-size: 0.92rem;
+  font-weight: 700;
+  line-height: 1.3;
+}
+
+.lab-photo-card__meta,
+.lab-photo-card figcaption {
+  display: block;
+  margin-top: 0.18rem;
+  color: #6b7280;
+  font-size: 0.8rem;
+  line-height: 1.35;
+}
+
+.lab-photo-card figcaption {
+  padding: 0.55rem 0.7rem 0.65rem;
 }
 
 @media (min-width: 1200px) {

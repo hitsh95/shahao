@@ -21,6 +21,18 @@ redirect_from:
   <a href="https://github.com/hitsh95"><i class="fab fa-github" aria-hidden="true"></i><span>GitHub</span></a>
 </div>
 
+{% if site.data.lab_life.group_photo.image and site.data.lab_life.group_photo.image != "" %}
+<section class="home-section home-group-section">
+  <h2>Our Group</h2>
+  <figure class="home-group-photo">
+    <img src="{{ site.data.lab_life.group_photo.image }}" alt="{{ site.data.lab_life.group_photo.alt | default: 'Group photo' }}">
+    {% if site.data.lab_life.group_photo.caption and site.data.lab_life.group_photo.caption != "" %}
+      <figcaption>{{ site.data.lab_life.group_photo.caption }}</figcaption>
+    {% endif %}
+  </figure>
+</section>
+{% endif %}
+
 <section class="home-section">
   <h2>Work Experience</h2>
   <ul class="home-record-list">

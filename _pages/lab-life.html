@@ -1,0 +1,43 @@
+---
+layout: archive
+title: "Lab Life"
+permalink: /lab-life/
+author_profile: true
+---
+
+<section class="lab-life-page">
+  <p class="lab-life-intro">
+    Selected moments from lab retreats, group activities, and time spent together beyond daily research work.
+  </p>
+
+  {% if site.data.lab_life.activities and site.data.lab_life.activities.size > 0 %}
+    {% for activity in site.data.lab_life.activities %}
+      <article class="lab-activity">
+        <header class="lab-activity__header">
+          <h2>{{ activity.title }}</h2>
+          <p>
+            {% if activity.date and activity.date != "" %}<span>{{ activity.date }}</span>{% endif %}
+            {% if activity.location and activity.location != "" %}<span>{{ activity.location }}</span>{% endif %}
+          </p>
+        </header>
+
+        {% if activity.description and activity.description != "" %}
+          <p class="lab-activity__description">{{ activity.description }}</p>
+        {% endif %}
+
+        {% if activity.photos %}
+          <div class="lab-photo-grid lab-photo-grid--full">
+            {% for photo in activity.photos %}
+              <figure class="lab-photo-card">
+                <img src="{{ photo.image }}" alt="{{ photo.alt | default: activity.title }}">
+                {% if photo.caption and photo.caption != "" %}
+                  <figcaption>{{ photo.caption }}</figcaption>
+                {% endif %}
+              </figure>
+            {% endfor %}
+          </div>
+        {% endif %}
+      </article>
+    {% endfor %}
+  {% endif %}
+</section>
