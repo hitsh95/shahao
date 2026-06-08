@@ -5,6 +5,8 @@ permalink: /team/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <section class="team-section">
   <h2>Team Members</h2>
   <div class="team-grid">
@@ -39,7 +41,7 @@ author_profile: true
 <section class="team-section lab-life-preview">
   <div class="team-section__heading-row">
     <h2>Lab Life</h2>
-    <a class="team-section__more-link" href="/lab-life/">View more</a>
+    <a class="team-section__more-link" href="{{ base_path }}/lab-life/">View more</a>
   </div>
 
   {% if site.data.lab_life.activities and site.data.lab_life.activities.size > 0 %}
@@ -47,8 +49,8 @@ author_profile: true
     {% assign featured_activities = site.data.lab_life.activities | slice: 0, site.data.lab_life.featured_limit %}
     {% for activity in featured_activities %}
       <article class="lab-photo-card lab-photo-card--preview">
-        <a href="/lab-life/">
-          <img src="{{ activity.cover }}" alt="{{ activity.title }}">
+        <a href="{{ base_path }}/lab-life/">
+          <img src="{% if activity.cover contains '://' %}{{ activity.cover }}{% else %}{{ activity.cover | prepend: base_path }}{% endif %}" alt="{{ activity.title }}">
           <span class="lab-photo-card__body">
             <span class="lab-photo-card__title">{{ activity.title }}</span>
             <span class="lab-photo-card__meta">

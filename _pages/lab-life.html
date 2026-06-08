@@ -5,6 +5,8 @@ permalink: /lab-life/
 author_profile: true
 ---
 
+{% include base_path %}
+
 <section class="lab-life-page">
   <p class="lab-life-intro">
     Selected moments from lab retreats, group activities, and time spent together beyond daily research work.
@@ -29,7 +31,7 @@ author_profile: true
           <div class="lab-photo-grid lab-photo-grid--full">
             {% for photo in activity.photos %}
               <figure class="lab-photo-card">
-                <img src="{{ photo.image }}" alt="{{ photo.alt | default: activity.title }}">
+                <img src="{% if photo.image contains '://' %}{{ photo.image }}{% else %}{{ photo.image | prepend: base_path }}{% endif %}" alt="{{ photo.alt | default: activity.title }}">
                 {% if photo.caption and photo.caption != "" %}
                   <figcaption>{{ photo.caption }}</figcaption>
                 {% endif %}

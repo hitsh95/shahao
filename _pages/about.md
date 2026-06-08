@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 <div class="home-intro">
   <p>I am an Assistant Researcher in the School of Computer Science at Harbin Institute of Technology (Shenzhen). My research focuses on multidimensional dynamic super-resolution imaging and tracking, with an emphasis on integrating optical imaging, computational modeling, and artificial intelligence to enable high spatiotemporal resolution observation and analysis of molecular dynamics.</p>
 
@@ -25,7 +27,7 @@ redirect_from:
 <section class="home-section home-group-section">
   <h2>Our Group</h2>
   <figure class="home-group-photo">
-    <img src="{{ site.data.lab_life.group_photo.image }}" alt="{{ site.data.lab_life.group_photo.alt | default: 'Group photo' }}">
+    <img src="{% if site.data.lab_life.group_photo.image contains '://' %}{{ site.data.lab_life.group_photo.image }}{% else %}{{ site.data.lab_life.group_photo.image | prepend: base_path }}{% endif %}" alt="{{ site.data.lab_life.group_photo.alt | default: 'Group photo' }}">
     {% if site.data.lab_life.group_photo.caption and site.data.lab_life.group_photo.caption != "" %}
       <figcaption>{{ site.data.lab_life.group_photo.caption }}</figcaption>
     {% endif %}
