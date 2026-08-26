@@ -116,8 +116,6 @@ redirect_from:
       <span class="home-news-time">Aug 2026</span>
       <span class="home-news-body">
         👏My project has been awarded the National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C)
-        <em style="color: red;"> (AAAI-26, CCF-A)</em>.
-        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37296" target="_blank">[Link]</a>
       </span>
     </li>
     <li>
