@@ -113,9 +113,9 @@ redirect_from:
   <h2>Recent News</h2>
   <ul class="home-news-list">
     <li>
-      <span class="home-news-time">Jan 2026</span>
+      <span class="home-news-time">Aug 2026</span>
       <span class="home-news-body">
-        🎊One paper was accepted in the Fortieth AAAI Conference on Artificial Intelligence
+        👏My project has been awarded the National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C)
         <em style="color: red;"> (AAAI-26, CCF-A)</em>.
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37296" target="_blank">[Link]</a>
       </span>
@@ -123,8 +123,9 @@ redirect_from:
     <li>
       <span class="home-news-time">Jan 2026</span>
       <span class="home-news-body">
-        👏I have earned my PhD and joined the School of Computer Science and Technology at HITsz as an Assistant Researcher. I hope everything goes smoothly in the future.
-        <a href="https://homepage.hit.edu.cn/shahao?lang=zh" target="_blank">[Link]</a>
+        🎊One paper was accepted in the Fortieth AAAI Conference on Artificial Intelligence
+        <em style="color: red;"> (AAAI-26, CCF-A)</em>.
+        <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37296" target="_blank">[Link]</a>
       </span>
     </li>
     <li>
@@ -151,38 +152,16 @@ redirect_from:
         <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792" target="_blank">[Link]</a>
       </span>
     </li>
-    <li>
-      <span class="home-news-time">Apr 2025</span>
-      <span class="home-news-body">
-        🎊Our work on Nile Red derivatives for advanced fluorescence imaging of lipid droplets was published in  
-        <em style="color: red;">Biosensors and Bioelectronics</em>.
-        <a href="https://www.sciencedirect.com/science/article/abs/pii/S0956566325003689?via%3Dihub" target="_blank">[Link]</a>
-      </span>
-    </li>
-    <li>
-      <span class="home-news-time">Oct 2024</span>
-      <span class="home-news-body">
-        🎊Our work on reliable deep learning in anomalous diffusion against out-of-distribution dynamics was published in
-        <em style="color: red;">Nature Computational Science</em> and was selceted as cover article!
-        <a href="https://www.nature.com/articles/s43588-024-00703-7" target="_blank">[Link]</a>
-      </span>
-    </li>
   </ul>
 </section>
 
 <section class="home-section">
   <h2>Honors & Awards</h2>
   <ul class="home-compact-list">
+     <li><span class="home-item-time">2026</span><span class="home-item-body">Principal Investigator, National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C) </span></li>
      <li><span class="home-item-time">2025</span><span class="home-item-body">World Artificial Intelligence Conference Youth Outstanding Paper Nomination Award, Shanghai Association for Science and Technology</span></li>
     <li><span class="home-item-time">2024</span><span class="home-item-body">BYD Doctoral Scholarship, Harbin Institute of Technology (Shenzhen)</span></li>
     <li><span class="home-item-time">2023</span><span class="home-item-body">Distinguished Director Scholarship, Shenzhen Bay Laboratory</span></li>
-    <li><span class="home-item-time">2019</span><span class="home-item-body">Highpower Technology Scholarship, Central South University</span></li>
-    <li><span class="home-item-time">2017</span><span class="home-item-body">Excellent Bachelor Thesis Award, Luoyang Institute of Science and Technology</span></li>
-    <li><span class="home-item-time">2016, 2015</span><span class="home-item-body">National Encouragement Scholarship</span></li>
-    <li><span class="home-item-time">2015</span><span class="home-item-body">First Prize, RoboCup Humanoid Robot Climbing Challenge</span></li>
-    <li><span class="home-item-time">2015</span><span class="home-item-body">First Prize, Henan Province 12th Challenge Cup</span></li>
-    <li><span class="home-item-time">2014</span><span class="home-item-body">First Prize, iCAN International Contest of Innovation</span></li>
-    <li><span class="home-item-time">2014</span><span class="home-item-body">First Prize, RoboCup Humanoid Robot Racing Challenge</span></li>
   </ul>
 </section>
 
