@@ -113,6 +113,14 @@ redirect_from:
   <h2>Recent News</h2>
   <ul class="home-news-list">
     <li>
+      <span class="home-news-time">Sept. 2026</span>
+       <span class="home-news-body">
+        🎊One paper was accepted by the Fortieth Annual Conference on Neural Information Processing Systems! Congratulations to Mr.Taiqin!
+        <em style="color: red;"> (NeurIPS-26, CCF-A)</em>.
+        <a href="" target="_blank">[Link]</a>
+      </span>
+    </li>
+    <li>
       <span class="home-news-time">Aug 2026</span>
       <span class="home-news-body">
         👏My project has been awarded the National Natural Science Foundation of China (NSFC) Young Scientists Fund (Category C)
@@ -121,7 +129,7 @@ redirect_from:
     <li>
       <span class="home-news-time">Jan 2026</span>
       <span class="home-news-body">
-        🎊One paper was accepted in the Fortieth AAAI Conference on Artificial Intelligence
+        🎊One paper was accepted by the Fortieth AAAI Conference on Artificial Intelligence
         <em style="color: red;"> (AAAI-26, CCF-A)</em>.
         <a href="https://ojs.aaai.org/index.php/AAAI/article/view/37296" target="_blank">[Link]</a>
       </span>
