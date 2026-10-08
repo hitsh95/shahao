@@ -2,6 +2,9 @@ sections:
   - key: "2026"
     title: "2026"
     items:
+      - citation: "Chen X*, Chen C*, <span class='pub-author-highlight'>Sha H#</span>, Huang Z, Jiang Y, Feng X, Zou W, Chen T, Zhang Y. Spectrally Filtered Optical Convolutional Neural Network for Shift-Robust Bright-Field Classification. ACS Photonics (2026). Accepted September 29, 2026. DOI: 10.1021/acsphotonics.6c01168. <span style='color:#c62828;'>IF=6.0</span>"
+        pdf: "https://raw.githubusercontent.com/hitsh95/shahao/master/files/acsphotonics.6c01168.pdf"
+        webpage: https://doi.org/10.1021/acsphotonics.6c01168
       - citation: "Chen T, Y. Wang, X. Feng, Z. Zhu, <span class='pub-author-highlight'>H. Sha</span>, Y. Li, et al. Spectral Property-Driven Data Augmentation for Hyperspectral Single-Source Domain Generalization. Proceedings of the AAAI Conference on Artificial Intelligence (AAAI 2026). <span style='color:#c62828;'>CCF-A</span>"
         pdf:
         webpage: https://ojs.aaai.org/index.php/AAAI/article/view/37296

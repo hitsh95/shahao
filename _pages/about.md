@@ -113,6 +113,13 @@ redirect_from:
   <h2>Recent News</h2>
   <ul class="home-news-list">
     <li>
+      <span class="home-news-time">Oct. 2026</span>
+      <span class="home-news-body">
+        🎊Our paper  was accepted by ACS Photonics (IF=6.0). Congratulations to Mr.Xiangyu and Mr.Chunyu! 
+        <a href="https://doi.org/10.1021/acsphotonics.6c01168" target="_blank" rel="noopener noreferrer">[Link]</a>
+      </span>
+    </li>
+    <li>
       <span class="home-news-time">Sept. 2026</span>
        <span class="home-news-body">
         🎊One paper was accepted by the Fortieth Annual Conference on Neural Information Processing Systems! Congratulations to Mr.Taiqin!
