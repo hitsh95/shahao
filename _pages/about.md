@@ -115,7 +115,8 @@ redirect_from:
     <li>
       <span class="home-news-time">Oct. 2026</span>
       <span class="home-news-body">
-        🎊Our paper  was accepted by ACS Photonics (IF=6.0). Congratulations to Mr.Xiangyu and Mr.Chunyu! 
+        🎊Congratulations to Mr. Xiangyu and Mr. Chunyu! Our paper  was accepted by  
+         <em style="color: red;"> (ACS Photonics, IF 6.0)</em>.
         <a href="https://doi.org/10.1021/acsphotonics.6c01168" target="_blank" rel="noopener noreferrer">[Link]</a>
       </span>
     </li>
