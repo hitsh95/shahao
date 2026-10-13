@@ -115,6 +115,14 @@ redirect_from:
     <li>
       <span class="home-news-time">Oct. 2026</span>
       <span class="home-news-body">
+        👏Congratulations to Mr. Taiqin for awarding the  
+         <em style="color: red;"> Ph.D Natioanl scholarship!</em>.
+        <a href="https://cs.hitsz.edu.cn/info/1019/8161.htm" target="_blank" rel="noopener noreferrer">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Oct. 2026</span>
+      <span class="home-news-body">
         🎊Congratulations to Mr. Xiangyu and Mr. Chunyu! Our paper  was accepted by  
          <em style="color: red;"> ACS Photonics!</em>.
         <a href="https://doi.org/10.1021/acsphotonics.6c01168" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -123,7 +131,7 @@ redirect_from:
     <li>
       <span class="home-news-time">Sept. 2026</span>
        <span class="home-news-body">
-        🎊One paper was accepted by the Fortieth Annual Conference on Neural Information Processing Systems! Congratulations to Mr.Taiqin!
+        🎊One paper was accepted by the Fortieth Annual Conference on Neural Information Processing Systems! Congratulations to Mr. Taiqin!
         <em style="color: red;"> (NeurIPS-26, CCF-A)</em>.
         <a href="" target="_blank">[Link]</a>
       </span>
