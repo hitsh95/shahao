@@ -115,6 +115,14 @@ redirect_from:
     <li>
       <span class="home-news-time">Oct. 2026</span>
       <span class="home-news-body">
+        🎊Our paper "Snapshot Spatiotemporal-Spectral Imaging Enabled by Joint Photonic Encoding" was accepted by
+        <em style="color: red;">Advanced Science (IF=14.1)</em>. Congratulations to Mr. Chunyu!
+        <a href="https://doi.org/10.1002/advs.78383" target="_blank" rel="noopener noreferrer">[Link]</a>
+      </span>
+    </li>
+    <li>
+      <span class="home-news-time">Oct. 2026</span>
+      <span class="home-news-body">
         👏Congratulations to Mr. Taiqin for awarding the  
          <em style="color: red;"> Ph.D Natioanl scholarship!</em>.
         <a href="https://cs.hitsz.edu.cn/info/1019/8161.htm" target="_blank" rel="noopener noreferrer">[Link]</a>
@@ -164,14 +172,6 @@ redirect_from:
         👏We received the World Artificial Intelligence Conference (WAIC 2025) Youth Outstanding Paper Nomination Award 
         <em style="color: red;">(Only 10 items)</em>.
         <a href="https://www.waicyop.cn/article/15" target="_blank">[Link]</a>
-      </span>
-    </li>
-    <li>
-      <span class="home-news-time">Jun 2025</span>
-      <span class="home-news-body">
-        🎊Our work on hyperspectral fluorescence imaging with a polarity-ultrasensitive fluorescent probe was published in 
-        <em style="color: red;">Advanced Science</em>.
-        <a href="https://advanced.onlinelibrary.wiley.com/doi/10.1002/advs.202508792" target="_blank">[Link]</a>
       </span>
     </li>
   </ul>

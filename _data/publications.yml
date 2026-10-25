@@ -2,6 +2,9 @@ sections:
   - key: "2026"
     title: "2026"
     items:
+      - citation: "Chen C*, Wen J*, <span class='pub-author-highlight'>Sha H*</span>, Yang C#, Chen Z, Feng X, Chen T, Zou W, Chen X, Ji X, Liu G#, Zhang Y#. Snapshot Spatiotemporal-Spectral Imaging Enabled by Joint Photonic Encoding. Advanced Science. e78383 (2026). DOI: 10.1002/advs.78383. <span style='color:#c62828;'>IF=14.1</span>"
+        pdf: "https://raw.githubusercontent.com/hitsh95/shahao/master/files/Advanced_Science_2026_Chen_Snapshot.pdf"
+        webpage: https://doi.org/10.1002/advs.78383
       - citation: "Chen X*, Chen C*, <span class='pub-author-highlight'>Sha H#</span>, Huang Z, Jiang Y, Feng X, Zou W, Chen T, Zhang Y. Spectrally Filtered Optical Convolutional Neural Network for Shift-Robust Bright-Field Classification. ACS Photonics (2026). Accepted September 29, 2026. DOI: 10.1021/acsphotonics.6c01168. <span style='color:#c62828;'>IF=6.0</span>"
         pdf: "https://raw.githubusercontent.com/hitsh95/shahao/master/files/acsphotonics.6c01168.pdf"
         webpage: https://doi.org/10.1021/acsphotonics.6c01168
